@@ -9,7 +9,7 @@ previous_page: search
 | [`version`](#version)                       | `site.github.latest_release.tag_name` |
 | [`auto_page_title`](#automatic-page-titles) | `false`                               |
 | [`mermaid_enabled`](#mermaid-enabled)       | `true`                                |
-| [`meraid_theme`](#mermaid-theme)            | `forest`                              |
+| [`mermaid_theme`](#mermaid-theme)           | `forest`                              |
 
 ## Version
 
